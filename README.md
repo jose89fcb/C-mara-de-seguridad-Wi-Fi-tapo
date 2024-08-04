@@ -6,5 +6,5 @@ C:\Users\iroke\Videos = DONDE QUIERAS QUE SE GUARDEN LOS VÍDEOS
 C:\Users\iroke\Videos\sequence.txt = TE RECOMIENDO QUE PONGAS QUE PONGAS LA RUTA DONDE TENGAS LOS VÍDEOS O TAMBIEN EN LA CARPETA DE LOS ARCHIVOS TEMPORALES
 
 Vídeo completo:
-<bt>
+<br>
 [![Jose89fcb](https://img.youtube.com/vi/dcZej_UBLXM/0.jpg)](https://www.youtube.com/watch?v=dcZej_UBLXM)
